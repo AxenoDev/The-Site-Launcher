@@ -37,7 +37,6 @@
 | macOS    | `npm run build:mac`   |
 | Linux    | `npm run build:linux` |
 | All    | `npm run build:all` |
-| ----------- | -------------------- | 
 
 ---
 
